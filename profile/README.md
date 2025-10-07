@@ -1,6 +1,6 @@
 # Esportes Hub
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/esportes-hub/id6744837737)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/esportes-hub/id6744837737) [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.esporteshub)
 
 Conectando atletas, simplificando a organização de partidas e democratizando o acesso ao esporte.
 
