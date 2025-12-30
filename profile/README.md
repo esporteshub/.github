@@ -26,6 +26,10 @@ Construímos uma solução:
 - Segura e confiável
 - De código limpo e bem documentado
 
+## Apoie o projeto
+
+[Seu patrocínio ajuda a transformar ideias em funcionalidades reais no Esportes Hub.](https://github.com/sponsors/esporteshub)
+
 ## 📬 Contato
 
 - Site: [esporteshub.com](https://esporteshub.com)
