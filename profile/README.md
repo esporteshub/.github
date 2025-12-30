@@ -34,3 +34,4 @@ Construímos uma solução:
 
 - Site: [esporteshub.com](https://esporteshub.com)
 - E-mail: contato@esporteshub.com
+- [Discord](https://discord.gg/Bc9xTA7UQ7)
